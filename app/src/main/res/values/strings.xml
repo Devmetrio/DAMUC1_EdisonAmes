@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">DAMUC1_EdisonAmes</string>
+    <string-array name="days">
+        <!-- Lista de días del 1 al 31 -->
+        <item>1</item>
+        <item>2</item>
+        <!-- Añadir más días -->
+        <item>31</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <!-- Añadir más meses -->
+        <item>Diciembre</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2024</item>
+        <item>2023</item>
+        <!-- Añadir más años -->
+        <item>1900</item>
+    </string-array>
 </resources>
